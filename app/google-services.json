@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "846977428112",
+    "project_id": "firechatdb-384c3",
+    "storage_bucket": "firechatdb-384c3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846977428112:android:8cde31df7dae750e330615",
+        "android_client_info": {
+          "package_name": "com.Developers.fastchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0BuXQm3XtT8jta2RRxGaIDPOJOu3nj5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

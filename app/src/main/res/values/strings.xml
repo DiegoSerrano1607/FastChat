@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FastChat</string>
+
+    <string name="Btn_ir_registros">Registrarme</string>
+    <string name="Btn_ir_logeo">Ingresar</string>
+
+    <string name="R_Et_nombre_usuario">Nombre de Usuario</string>
+    <string name="R_Et_email">Correo Electrónico</string>
+    <string name="R_Et_password">Contraseña</string>
+    <string name="R_Et_r_password">Repita su contraseña</string>
+    <string name="Btn_registrar">Registrar</string>
+</resources>
