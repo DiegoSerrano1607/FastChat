@@ -1,12 +1,92 @@
 <resources>
     <string name="app_name">FastChat</string>
+    <string name="default_web_client_id">846977428112-fuur1lnds0pphr5nse7ga3hn1sg26d84.apps.googleusercontent.com</string>
 
-    <string name="Btn_ir_registros">Registrarme</string>
-    <string name="Btn_ir_logeo">Ingresar</string>
+    <string name="Btn_ir_logeo">Ingresar con correo</string>
+    <string name="Btn_login_google">Ingresar con Google</string>
 
     <string name="R_Et_nombre_usuario">Nombre de Usuario</string>
     <string name="R_Et_email">Correo Electrónico</string>
     <string name="R_Et_password">Contraseña</string>
     <string name="R_Et_r_password">Repita su contraseña</string>
     <string name="Btn_registrar">Registrar</string>
+
+
+    <string name="menu_perfil">Perfil de Usuario</string>
+    <string name="menu_acerca_de">Acerca de</string>
+    <string name="menu_salir">Cerrar Sesión</string>
+
+    <string name="menu_visitar">Visitar Perfil</string>
+
+    <string name="L_Et_email">Correo electrónico</string>
+    <string name="L_Et_password">Contraseña</string>
+    <string name="Btn_login">Ingresar</string>
+    <string name="TXT_no_cuenta">¿No tienes una cuenta?</string>
+    <string name="TXT_ir_registro">Registrarme</string>
+
+    <string name="Nombre_usuario">Nombre de usuario</string>
+
+    <string name="Item_nombre_usuario">Nombre de Usuario</string>
+    <string name="Item_email_usuario">Email de Usuario</string>
+    <string name="Txt_ultimo_mensaje"></string>
+
+    <string name="Et_buscar_usuario">Buscar usuario</string>
+
+    <!--Todo estos strings son para el perfil del usuario-->
+    <string name="P_n_usuario">Nombre de Usuario</string>
+    <string name="P_proveedor_txt">Proveedor: </string>
+    <string name="P_proveedor"> -- </string>
+    <string name="P_email">Email</string>
+    <string name="P_nombres">Nombres</string>
+    <string name="P_apellidos">Apelidos</string>
+    <string name="P_edad">Edad</string>
+    <string name="P_telefono">Telefono</string>
+    <string name="Btn_guardar">Guardar</string>
+
+    <string name="Btn_verificar">No verificado</string>
+
+    <!--Cuadros de cuenta verificada-->
+    <string name="CuentaVerificadaTXT">Cuenta Verificada</string>
+    <string name="BtnEntendidoVerificado">Entendido</string>
+
+    <!--Esto es para editar la imagen de perfil-->
+    <string name="BtnElegirImagenDe">Elegir imagen de</string>
+    <string name="BtnActualizarImagen">Actualizar imagen</string>
+
+    <!--Cuadro de diálogo seleccionar imagen de-->
+    <string name="Txt_seleccionar_imagen">Seleccionar imagen de: </string>
+    <string name="Btn_abrir_galeria">Galería</string>
+    <string name="Btn_abrir_camara">Cámara</string>
+
+    <!--Esto es para los chats-->
+    <string name="N_usuario_chat">Nombre de Usuario</string>
+    <string name="Et_mensaje">Escriba un mensaje</string>
+
+    <string name="PV_Perfil_TXT">Perfil de Usuario</string>
+    <string name="PV_NombreU">Nombre de Usuario</string>
+    <string name="PV_EmailU">Email de Usuario</string>
+    <string name="PV_Uid_TXT">Identificador: </string>
+    <string name="PV_Uid">Uid</string>
+    
+    <string name="PV_nombres_TXT">Nombres: </string>
+    <string name="PV_nombres"> -- </string>
+    <string name="PV_apellidos_TXT">Apellidos: </string>
+    <string name="PV_apellidos"> -- </string>
+    <string name="PV_telefono_TXT">Teléfono: </string>
+    <string name="PV_telefono"> -- </string>
+    <string name="PV_proveedor_TXT">Proveedor: </string>
+    <string name="PV_proveedor"> -- </string>
+
+    <!--Items para los chats-->
+    <string name="TXT_ver_mensaje">Hola, ¿Cómo estás?</string>
+
+    <!--Info App-->
+    <string name="Desarrollador">Desarrollado por: Corporación Fast</string>
+    <string name="CorreoSoporte">Soporte: CorpoFast@outlook.com</string>
+    <string name="Version">Versión: 2.0.1</string>
+    <string name="EntendidoInfo">Entendido</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>

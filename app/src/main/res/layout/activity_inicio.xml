@@ -15,15 +15,16 @@
         android:gravity="center"
         android:padding="10dp">
 
-        <Button
-            android:id="@+id/Btn_ir_registros"
-            android:text="@string/Btn_ir_registros"
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/Btn_ir_logeo"
+            android:text="@string/Btn_ir_logeo"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
 
-        <Button
-            android:id="@+id/Btn_ir_logeo"
-            android:text="@string/Btn_ir_logeo"
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/Btn_login_google"
+            android:text="@string/Btn_login_google"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
 
